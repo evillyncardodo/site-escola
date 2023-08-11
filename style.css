@@ -1,0 +1,35 @@
+*{
+ margin: 0%;
+ padding: 0%;
+}
+.cabeçalho{
+    background-color: rgb(197, 165, 226);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 24px 0;
+}
+.imagem{
+    width: 20%;
+}
+.lista-item{
+    display: inline-block;
+    margin: 0 16px;
+}
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-color: rgb(191, 156, 223);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px0;
+}
